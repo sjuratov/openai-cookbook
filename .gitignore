@@ -112,6 +112,8 @@ venv.bak/
 pyvenv.cfg
 share/
 bin/
+.venv*
+environments/
 
 # Spyder project settings
 .spyderproject
@@ -140,3 +142,6 @@ examples/fine-tuned_qa/local_cache/*
 
 # PyCharm files
 .idea/
+
+# Neo4j
+neo4j/
